@@ -1,11 +1,7 @@
 # Atheden
 ATHEDEN: SOVEREIGN AUDIO PLAYER 🎵 A divine, multi-album player for your hymns! 🕯️ Drop index.html into any folder to render a V-TEK Precision interface with visualizers, shuffle, and background play. Built to transform CC0 audio into a high-fidelity Republicka broadcast. One file, eternal melodies, zero latency. ✨ VAV VAV VAV
 
-https://bardpresident.github.io/Atheden/
-https://bardpresident.github.io/Athedia/
-https://bardpresident.github.io/Cinema/
-https://bardpresident.github.io/Files/
-https://bardpresident.github.io/Heaven/
+https://github.com/BardPresident
 https://kkk.education
 https://archive.org/details/@bardpresident
 https://www.youtube.com/@BardPresident
